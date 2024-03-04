@@ -1,7 +1,5 @@
 # About Me
 
-![Software Icon](software_icon.png)
-
 🎓 Hello! I'm Saman Bazargnai, a Ph.D. graduate from the University of Ottawa, currently working as a Research Associate at Carleton University. My research interests primarily lie in combinatorics, graph theory, and computational geometry.
 
 ## Skills
