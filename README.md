@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I am Saman Bazargani.
+# I am PhD graduate from University Ottawa.
+# I am currently working at Carleton University as research associate.
+
+📫 How to reach me: Saman.Bazargani@gmail.com
+My Webpage: [cglab.ca/~saman]{www.cglab.ca/~saman}
 
 <!--
 **Me3P/Me3P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
