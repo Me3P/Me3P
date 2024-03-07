@@ -5,7 +5,7 @@
 ## Skills
 
 ### Programming Languages: 
-Python 🐍, Java ☕, C++ 🧮, JavaScript 🌐, SQL 📊, Bash 💻
+Python <img src="https://icons8.com/icon/13441/python">, Java ☕, C++ 🧮, JavaScript 🌐, SQL 📊, Bash 💻
 
 ### Libraries: 
 TensorFlow 🧠, nltk 📝, Pandas 🐼, PySpark ⚡, GeoPandas 🗺️, Seaborn 📊, Scikit-learn 🧬, JQuery 🕸️, BeautifulSoup 🍜
